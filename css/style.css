@@ -2,9 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
 
-/* - to see the difference, dev only */
-@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
-
 :root {
     --gradient-from: #DA2431;
     --gradient-to: #7A4397;
@@ -26,7 +23,6 @@ menus {
 }
 
 .navbar-brand {
-    /* color: var(--project-yellow) !important; */
     color: var(--project-yellow);
 }
 
@@ -36,7 +32,6 @@ menus {
 
 .navbar-brand:hover,
 .nav-link:hover {
-    /* color: rgb(255, 255, 255) !important; */
     color: rgb(255, 255, 255);
 }
 
