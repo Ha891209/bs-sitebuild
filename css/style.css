@@ -1,0 +1,14 @@
+ .bg-section {
+     background-image: url("/img/bg-cta.jpg");
+     background-repeat: no-repeat;
+     height: 1200px;
+
+ }
+
+ .section1 {
+     background: linear-gradient(to right, #ff0066 0%, #b42ae2 100%);
+ }
+
+ .phone {
+     border-radius: 90px;
+ }
